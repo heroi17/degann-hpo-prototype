@@ -1,0 +1,3 @@
+[submodule "deps/degann"]
+	path = deps/degann
+	url = https://github.com/Krekep/degann.git
