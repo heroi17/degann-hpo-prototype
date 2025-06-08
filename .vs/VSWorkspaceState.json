@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\deps\\degann",
+    "\\deps\\degann\\degann\\networks",
+    "\\deps\\degann\\degann\\networks\\topology",
+    "\\deps\\degann\\degann\\networks\\topology\\gan"
+  ],
+  "SelectedNode": "\\deps",
+  "PreviewInSolutionExplorer": false
+}
